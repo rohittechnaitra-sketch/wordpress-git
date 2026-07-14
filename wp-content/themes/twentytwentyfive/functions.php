@@ -157,3 +157,6 @@ if ( ! function_exists( 'twentytwentyfive_format_binding' ) ) :
 		}
 	}
 endif;
+function test() {
+	echo "test";
+}
